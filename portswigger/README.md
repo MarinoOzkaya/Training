@@ -17,7 +17,7 @@ Each lab includes:
 
 | Category | Completed | Total | Status |
 |--------|----------|-------|--------|
-| SQL Injection | 0 | TBD | ⬜ In Progress |
+| SQL Injection | 8 | TBD | ⬜ In Progress |
 | Authentication | 0 | TBD | ⬜ In Progress |
 | Access Control | 0 | TBD | ⬜ In Progress |
 | XSS | 0 | TBD | ⬜ In Progress |
